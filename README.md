@@ -9,13 +9,13 @@ This project is a computer vision-based web application that detects pedestrians
 project/
 │
 ├── templates/
-│   └── upload.html        # Frontend UI for video upload
+│ └── upload.html # Frontend UI for video upload
 │
-├── uploads/               # Stores uploaded videos
+├── uploads/ # Stores uploaded videos
 │
-├── detect.py              # Main Flask app + detection logic
-├── requirements.txt       # Python dependencies
-├── environment.yml        # Conda environment config
+├── detect.py # Main Flask app + detection logic
+├── requirements.txt # Python dependencies
+├── environment.yml # Conda environment config
 
 ---
 
